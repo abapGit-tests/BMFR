@@ -3,13 +3,13 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <BMOBJECT>
-    <NAME>abapGit test subcomponent level 2</NAME>
+    <NAME>abapGit</NAME>
    </BMOBJECT>
    <BMT_FUNCTION_RANGE>
     <RELE>752</RELE>
     <LSTRELE>752</LSTRELE>
-    <PS_POSID>ZAG-TST-TS2</PS_POSID>
-    <NAME>abapGit test subcomponent level 2</NAME>
+    <PS_POSID>ZAG</PS_POSID>
+    <NAME>abapGit</NAME>
    </BMT_FUNCTION_RANGE>
   </asx:values>
  </asx:abap>
